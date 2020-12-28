@@ -1,6 +1,8 @@
 # passworddd
 SEE A WORKING VERSION AT https://passworddd.com
 
+The main code is in the html file: passworDDD ddMMMYYYY.html. 
+
 passworDDD 3D Security - unique gobbledygook-free passwords for every website
 
 Generate unique passwords for every website to protect yourself against hackers - if one site is cracked, you won't have to worry about changing your password on other websites. The approach is easy enough to be understood by a non-professional, while using modern cryptography (A Salted Hash with Diceware).  The 3 dimensions of security:
